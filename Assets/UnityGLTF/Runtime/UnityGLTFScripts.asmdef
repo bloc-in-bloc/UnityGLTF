@@ -1,0 +1,16 @@
+{
+    "name": "UnityGLTFScripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:807c2ae04b9854bf5bf1b7913fffb62b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
